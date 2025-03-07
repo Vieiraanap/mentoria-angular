@@ -19,7 +19,7 @@ Os materiais aqui disponibilizados incluem exemplos de código, links para recur
 ## **Como Utilizar**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Vieiraanap/mentoria-angular.git
    ```
 2. Navegue pelos diretórios para acessar os materiais de interesse.
 3. Utilize os exemplos e exercícios para reforçar os conceitos aprendidos.
