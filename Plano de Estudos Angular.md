@@ -65,5 +65,6 @@
   - Pluralsight
 - **Projetos Práticos**
   - Criar pequenos projetos para aplicar o conhecimento adquirido.
+  - [Angular Real-World Example App](https://github.com/gothinkster/angular-realworld-example-app)
 
 > **Nota:** Este plano pode ser ajustado conforme o progresso e as necessidades específicas da pessoa que está sendo mentorada. Além disso, é importante incentivar a prática constante e a exploração de projetos reais para solidificar o aprendizado.
