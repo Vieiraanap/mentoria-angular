@@ -62,6 +62,7 @@
   - Loiane Groner
   - Balta.io
   - Algaworks
+  - Pluralsight
 - **Projetos Práticos**
   - Criar pequenos projetos para aplicar o conhecimento adquirido.
 
