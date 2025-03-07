@@ -7,7 +7,7 @@ Os materiais aqui disponibilizados incluem exemplos de código, links para recur
 
 ## **Sobre o Material**
 - **StackSpot AI**: Parte do material de minha autoria contou com o uso da StackSpot AI, que auxiliou na curadoria e organização dos conteúdos apresentados.
-- **Certifaces.dev**: Este repositório também inclui materiais do treinamento gratuito para certificação em Angular, disponibilizado pela Certifaces.dev durante uma campanha promocional de um final de semana, ocorrido em fevereiro de 2025.
+- **Certificates.dev**: Este repositório também inclui materiais do treinamento gratuito para certificação em Angular, disponibilizado pela Certificates.dev durante uma campanha promocional de um final de semana, ocorrido em fevereiro de 2025.
 
 ## **Conteúdo Disponível**
 - Material escrito das aulas.
